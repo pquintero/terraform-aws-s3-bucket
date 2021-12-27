@@ -3,7 +3,7 @@
 ```hcl
 module "s3-bucket" {
   source  = "pquintero/s3-bucket/aws"
-  version = "0.0.1"
+  version = "0.0.4"
   
   force_destroy = true
 }
