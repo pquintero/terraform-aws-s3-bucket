@@ -74,4 +74,4 @@ pre-commit run -a
 
 ## Autor
  
-Module managed by [pquintero](https://github.com/pquintero/terraform-aws-glue-job.git)
+Module managed by [pquintero](https://github.com/pquintero/terraform-aws-s3-bucket.git)
